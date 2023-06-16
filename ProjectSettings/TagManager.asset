@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spikes
+  - leftwall
+  - rightwall
+  - bottomwall
+  - abovewall
+  - TSpikes
+  - Obstacle_spike
+  - Obstacle_wall_right
+  - Obstacle_wall_left
+  - Obstacle_Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - walls
+  - spikesobj
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BallLayer
+    uniqueID: 1231312271
+    locked: 0
+  - name: walls
+    uniqueID: 838199901
+    locked: 0
+  - name: spikesobj
+    uniqueID: 2651574287
+    locked: 0

@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 94f7571852f9cc046972e94a10d8f50e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 366
+        width: 492
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fc098c984346e4cb993af022221073
+      internalID: 728930269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 13
+        width: 550
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb79a16898fc2e419eadbe4cee0f90b
+      internalID: -1261742188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 494
+        width: 333
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c27471c0caa6cb4a938d23e1f7214e9
+      internalID: -551603241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 491
+        width: 126
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b06c46e9468ce408aec1aba90be9ac
+      internalID: -799033147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 491
+        width: 142
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e0170a70a32cb4c83ce59bffb51936
+      internalID: 946234004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 359
+        width: 344
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03388313f4a13bb49afe981e745954d5
+      internalID: 685690389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 289
+        width: 152
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8777d71123120784e89943bb9987f7e9
+      internalID: 1863654949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 500
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf508b0dd4c9c441b89c4f08633b53c
+      internalID: 581198679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 226
+        width: 321
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bc984500cbac74a84e9516b7094fa3
+      internalID: 1786257063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 82
+        width: 186
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b601fda32f21541978e577dbe64df1
+      internalID: -1520469128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 85
+        width: 363
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95e2ba7574a6794e8afabd94ca00986
+      internalID: 641961653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_0: 728930269
+      vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_1: -1261742188
+      vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_10: 641961653
+      vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_2: -551603241
+      vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_3: -799033147
+      vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_4: 946234004
+      vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_5: 685690389
+      vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_6: 1863654949
+      vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_7: 581198679
+      vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_8: 1786257063
+      vecteezy_wooden-game-buttons-cartoon-menu-interface-set_15916901-removebg_9: -1520469128
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
